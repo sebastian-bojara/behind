@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: myapp
-    image: mrdunski/guestbook:0.1
+    image: mrdunski/guestbook:0.3
     resources:
       limits:
         memory: "128Mi"
